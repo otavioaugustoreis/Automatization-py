@@ -54,11 +54,4 @@ Após o login, o usuário visualiza 6 botões, cada um representando uma ação 
 | JWT          | Navega até o site oficial do JWT para testar tokens.|
 | Git Docs     | Abre a documentação oficial do Git.                 |
 
-## Como Funciona?
 
-### Dependências
-
-Certifique-se de instalar as bibliotecas necessárias antes de executar o programa:
-
-```bash
-pip install customtkinter pyautogui
